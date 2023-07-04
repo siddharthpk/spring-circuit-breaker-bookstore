@@ -15,4 +15,4 @@ The idea here is to create a Client-Server Microservice Application and apply Sp
  - Choose Maven/Gradle for the project build. 
  - Next, you want to choose a language, I went with Java but you can choose Kotlin or Groovy
  - Further, choose a stable version of Spring, I went with 3.1.1
- - Next is the Project Metadata 
+ - Next is the Project Metadata, choose Java 14 or above and can leave the rest as default 
